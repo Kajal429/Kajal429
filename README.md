@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate DevOps Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOURUSERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="kajal429" />
 </p>
 
 ---
@@ -103,17 +103,4 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=darkhub&no-frame=true&row=1" alt="YOURUSERNAME" />
-</p>
-
----
-
-### 📈 Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark" alt="YOURUSERNAME" />
-</p>
 
