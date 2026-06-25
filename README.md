@@ -15,7 +15,6 @@
 - 🤝 I'm looking for help with **Cloud-Native Architecture**
 - 💬 Ask me about **Docker, Terraform, Jenkins, AWS, Linux, Bash, Go**
 - 📫 How to reach me: **kajalkhandekar429@gmail.com**
-- 🏆 2024 Goals: **Get CKA certified & contribute to CNCF projects**
 - ⚡ Fun fact: **I automate everything, including my coffee ☕**
 
 ---
