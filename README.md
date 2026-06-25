@@ -87,20 +87,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&locale=en" alt="YOURUSERNAME" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark" alt="YOURUSERNAME" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&show_icons=true&locale=en&layout=compact&theme=dark" alt="YOURUSERNAME" />
-</p>
-
----
-
 
