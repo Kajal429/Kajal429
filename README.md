@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm kajal khandekar</h1>
 <h3 align="center">🚀 A passionate DevOps Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="kajal429" />
-</p>
-
 ---
 
 ### 🙋‍♂️ About Me
